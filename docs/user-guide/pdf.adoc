@@ -1,5 +1,0 @@
-= User Guide
-:doctype: book
-:toc:
-
-include::index.adoc[]
